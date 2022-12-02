@@ -48,7 +48,7 @@ box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
 
 ### Continued development
 
-My next focus is to continue tackling HTML and CSS. As it would make my practices easier. I am currently learn JS and after I will tackle projects with JS.
+My next focus is to continue tackling HTML and CSS. As it would make my practices easier. I am currently learning JS and after I will tackle projects with JS.
 
 
 ### Useful resources
